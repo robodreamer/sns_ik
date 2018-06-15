@@ -1,5 +1,0 @@
-# This file is intended for users who want to build SNS-IK from source.
-- git:
-    local-name: sns_ik
-    uri: https://github.com/RethinkRobotics-opensource/sns_ik.git
-    version: indigo-devel
