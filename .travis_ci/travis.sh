@@ -6,6 +6,7 @@
 # Inspired by JSK travis https://github.com/jsk-ros-pkg/jsk_travis
 # Inspired by ROS Industrial https://github.com/ros-industrial/industrial_ci
 #
+# Maintainer: Ian McMahon
 # Author:  Dave Coleman, Isaac I. Y. Saito, Robert Haschke
 
 # Note: ROS_REPOSITORY_PATH is no longer a valid option, use ROS_REPO. See README.md
