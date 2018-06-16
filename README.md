@@ -1,5 +1,5 @@
 # SNS-IK Library
-`Version 0.2.3 beta`
+`Version 0.2.3`
 
 The Saturation in the Null-Space (SNS) Inverse-Kinematics (IK) Library
 implements a collection of algorithms written by Fabrizio Flacco for
