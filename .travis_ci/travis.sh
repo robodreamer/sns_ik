@@ -27,10 +27,10 @@ if ! [ "$IN_DOCKER" ]; then
     # Choose the correct CI container to use
     case "$ROS_REPO" in
         ros-shadow-fixed)
-            export DOCKER_IMAGE=RethinkRobotics/sns-ik:$ROS_DISTRO-ci-shadow-fixed
+            export DOCKER_IMAGE=rethinkroboticsopensource/sns-ik:$ROS_DISTRO-ci-shadow-fixed
             ;;
         *)
-            export DOCKER_IMAGE=RethinkRobotics/sns-ik:$ROS_DISTRO-ci
+            export DOCKER_IMAGE=rethinkroboticsopensource/sns-ik:$ROS_DISTRO-ci
             ;;
     esac
     echo "Starting Docker image: $DOCKER_IMAGE"
